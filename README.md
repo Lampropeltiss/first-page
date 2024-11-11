@@ -2,8 +2,9 @@
 
 [LamproPage](https://lampropeltiss.github.io/first-page/)
 ### _snakes are hissing here_
+---
 
-`coding`
+`using next...`
 
 1. rus, eng
 2. python
